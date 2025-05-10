@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+.my-shadow{
+box-shadow: 0px 0px 10px  rgb(105, 179, 32);;
+}
+.bg-green{
+    padding: 10px;
+    background-color: rgb(105, 179, 32);
+}
